@@ -1,0 +1,6 @@
+[submodule "md-to-ascii"]
+	path = md-to-ascii
+	url = https://github.com/freight-chain/md-to-ascii.git
+[submodule "docugit"]
+	path = docugit
+	url = git@gitlab.com:fr8/docugit.git

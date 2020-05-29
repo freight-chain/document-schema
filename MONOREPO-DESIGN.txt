@@ -1,0 +1,20 @@
+monorepo
+├── lib/
+├── dist/
+├── antora-ui/
+├── docs/
+│   ├── component-api/
+│   |   └── modules/
+│   |   |    ├── ROOT/
+│   |   |         └── nav.adoc
+│   |   |         └── pages/
+│   |   |             └── overview.adoc
+│   |   |    └── module-one/
+│   |   |         └── nav.adoc
+│   |   |         └── pages/
+│   |   |             └── overview.adoc
+│   |   └── antora.yml
+|   |
+├── lerna.json
+├── package.json
+└── tsconfig.json
